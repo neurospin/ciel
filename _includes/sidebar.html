@@ -3,9 +3,12 @@
     <div class="inner">
 
         <!-- Menu -->
+        {% assign lab = "gaia" %}
+        {% assign teams_sorted = site.labs | where: "cat", lab | where: "subcat", "team" | sort: "title"  %}
+        {% assign cells_sorted = site.labs | where: "cat", lab | where: "subcat", "cell" | sort: "title"  %}
         {% assign today = site.time | date: '%Y' %}
         {% assign year = today | minus: 4 %}
-        {% assign labs_sorted = (site.labs | sort: 'cat' %}
+        {% assign labs_sorted = site.labs | sort: 'cat' %}
         {% assign unique_cats = '' | split: ',' %}
         {% for lab in labs_sorted %}
           <!-- If not equal to previous then it must be unique as sorted -->
@@ -19,7 +22,31 @@
             <h2>Menu</h2>
           </header>
           <ul>
-            <li><a href="{{site.url}}{{site.baseurl}}/">Homepage</a></li>
+            <li><a href="{{ '/' | absolute_url }}">Homepage</a></li>
+            <li>
+              <span class="opener">Teams</span>
+              <ul>
+                {% for team in teams_sorted %}
+                    {% if team.site %}
+                        <li><a href="{{team.site}}" target="_blank">{{team.title}}</a></li>
+                    {% else %}
+                        <li><a href="{{site.url}}{{site.baseurl}}{{team.url}}">{{team.title}}</a></li>
+                    {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
+            <li>
+              <span class="opener">Cells</span>
+              <ul>
+                {% for cell in cells_sorted %}
+                    {% if cell.site %}
+                        <li><a href="{{cell.site}}  target="_blank"">{{cell.title}}</a></li>
+                    {% else %}
+                        <li><a href="{{site.url}}{{site.baseurl}}{{cell.url}}">{{cell.title}}</a></li>
+                    {% endif %}
+                {% endfor %}
+              </ul>
+            </li>
             <li>
               <span class="opener">Publications</span>
               <ul>

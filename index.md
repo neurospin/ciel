@@ -8,7 +8,7 @@ layout: page_lab
 
 <!-- Banner -->
 <section id="banner">
-<div class="content">
+<div class="content" style="width: 100%;">
   <p>
   The GAIA laboratory is part of the BAOBAB (CEA, CNRS, Paris-Saclay Univ.) unit of <a href="http://www.cea.fr/english"  target="_blank">CEA</a>/<a href="http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx"  target="_blank">NeuroSpin department</a>, located on the <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay campus</a>.
   </p>
@@ -38,11 +38,12 @@ layout: page_lab
   {% endfor %}
    </p> -->
 </div>
-<span class="image object">
+<div class="">
   <img src="{{site.url}}{{site.baseurl}}/images/banner.png" alt="" style="
     width: 100%;
-    height:  auto;
+    height: auto;
+    margin-bottom: 2em;
   "/>
-</span>
+</div>
 </section>
 

@@ -64,7 +64,7 @@
                             <p>{{ team.teasing }}</p>
                             <ul class="actions">
                                 {% if team.site %}
-                                    <li><a href="{{team.site}}" class="button medium">More</a></li>
+                                    <li><a href="{{team.site}}" target="_blank" class="button medium">More</a></li>
                                 {% else %}
                                     <li><a href="{{site.url}}{{site.baseurl}}{{team.url}}" class="button medium">More</a></li>
                                 {% endif %}
@@ -103,7 +103,7 @@
                             <p>{{ cell.teasing }}</p>
                             <ul class="actions">
                                 {% if cell.site %}
-                                    <li><a href="{{cell.site}}" class="button medium">More</a></li>
+                                    <li><a href="{{cell.site}}" target="_blank" class="button medium">More</a></li>
                                 {% else %}
                                     <li><a href="{{site.url}}{{site.baseurl}}{{cell.url}}" class="button medium">More</a></li>
                                 {% endif %}

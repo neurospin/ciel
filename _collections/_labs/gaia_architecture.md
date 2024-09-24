@@ -38,3 +38,5 @@ This is why for a few years we question the usual idea that an atlas can be adap
 We are also developing machine learning analyses to project the geometric variability of a sulcus or a pattern into a low-dimensional manifold, in order to quantify possible links with a pathology or a behavior (Z. Y. Sun, M. Pascucci). We have adapted these strategies to the analysis of the d​​evelopment of the folding of premature babies (H. de Vareille) and to the comparison of the folding of great apes with that of humans (O. Foubet).
 
 In the context of the Human Brain Project, we have established the first atlases of short-range connectivity through U-fibers (M. Guevara, N. Labra, N. Vindas) and new parcellations of the cortical surface integrating connectivity from diffusion MRI and cytoarchitectonicity (C. Langlet, XY Wang). Our ultimate goal is to link folding variability with connectivity and architectonics variability.​
+
+<bf>Developed neuroimaging software platform:</bf> [BrainVisa](https://brainvisa.info/web)
