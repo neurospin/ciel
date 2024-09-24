@@ -1,4 +1,30 @@
+![PoweredBy](https://img.shields.io/badge/Powered%20by-CEA%2FNeuroSpin-blue.svg)
 ![Build Static Pages](https://github.com/neurospin/gaia/workflows/Build%20Static%20Pages/badge.svg)
+
+
+# Important links
+
+- repository URL: https://github.com/neurospin/gaia
+- site URL: https://neurospin.github.io/gaia
+
+# How to contribute
+
+The easiest way to update the content of the site is to create an issue from
+the GitHub interface:
+
+- first, log in to your GitHub account.
+- go to the issue page: https://github.com/neurospin/gaia/issues.
+- click the "New issue" buttton.
+- fill out the appropriate template.
+
+If you want to contribute more deeply:
+
+- first, log in to your GitHub account.
+- fork the repository.
+- modify the code and test it locally (see the [Configuration](#configuration)
+  and [Local Install](#local-install) sections.
+- create a Pull Request to the main repository
+
 
 # Configuration
 
@@ -19,7 +45,7 @@ Please look at the example and use the same keys.
 
 Note: For the research collection, you will have to add a new `research_<CATEGORY>.md` for new categories.
 
-# Install local
+# Local Install
 
 Jekyll:
 
