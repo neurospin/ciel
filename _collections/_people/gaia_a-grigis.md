@@ -7,6 +7,6 @@ cat: gaia
 subcat: platform
 site: https://agrigis.github.io
 avatar: a-grigis.jpg
-joined: 2016
+joined: 2014
 ---
 

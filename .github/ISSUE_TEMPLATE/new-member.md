@@ -23,8 +23,15 @@ assignees: ''
 **Position**
 - [X] PI
 - [ ] Post Doc
-- [ ] Grad Student
+- [ ] PhD Student
 - [ ] Engineer
+
+**Supervisors**
+- Optionally, list your supervisors
+
+**Fixed-term contract**
+- Start year:
+- End year:
 
 **Personal site**
 - Optionally, you can add a link to your personal website.

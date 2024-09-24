@@ -16,7 +16,7 @@ country: France
 phone:
 
 # Expiration in days
-expiration_opportunities: 200
+expiration_opportunities: 100
 expiration_news: 300
 
 # Social settings

@@ -6,6 +6,6 @@ position: alumni
 cat: gaia
 subcat: signature
 avatar:
-joined: 2008
+joined: 2012
 ---
 

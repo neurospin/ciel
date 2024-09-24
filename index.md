@@ -18,7 +18,7 @@ layout: page_lab
   <p>
   Below is a list of all the <a href="#teams">teams</a> and <a href="#cells">cells</a>. A <a href="#gallery">gallery</a> of current research topics is also available.
   </p>
-  <p>
+  <!-- <p>
   <b>Teams:</b>
   {% for team in teams_sorted %}
     {% if team.site %}
@@ -36,10 +36,13 @@ layout: page_lab
         <a href="{{site.url}}{{site.baseurl}}{{cell.url}}">{{cell.title}}</a>
     {% endif %}
   {% endfor %}
-   </p>
+   </p> -->
 </div>
 <span class="image object">
-  <img src="{{site.url}}{{site.baseurl}}/images/banner.png" alt="" />
+  <img src="{{site.url}}{{site.baseurl}}/images/banner.png" alt="" style="
+    width: 100%;
+    height:  auto;
+  "/>
 </span>
 </section>
 

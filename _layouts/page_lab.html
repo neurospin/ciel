@@ -49,11 +49,11 @@
                         <div class="posts">
                         {% for team in teams_sorted %}
                           <article>
-                            {% if team.site %}
+                            <!-- {% if team.site %}
                                 <a href="{{team.site}}" class="image"><img src="{{site.url}}{{site.baseurl}}/images/labs/{{team.icon}}" alt="" /></a>
                             {% else %}
                                 <a href="{{site.url}}{{site.baseurl}}{{team.url}}" class="image"><img src="{{site.url}}{{site.baseurl}}/images/labs/{{team.icon}}" alt="" /></a>
-                            {% endif %}
+                            {% endif %} -->
                             <h3>{{ team.title }}: {{team.headline}}</h3>
                             <p>
                                 <b>Leader: </b>
@@ -88,11 +88,11 @@
                         <div class="posts">
                         {% for cell in cells_sorted %}
                           <article>
-                           {% if cell.site %}
+                           <!-- {% if cell.site %}
                                 <a href="{{cell.site}}" class="image"><img src="{{site.url}}{{site.baseurl}}/images/labs/{{cell.icon}}" alt="" /></a>
                             {% else %}
                                 <a href="{{site.url}}{{site.baseurl}}{{cell.url}}" class="image"><img src="{{site.url}}{{site.baseurl}}/images/labs/{{cell.icon}}" alt="" /></a>
-                            {% endif %}
+                            {% endif %} -->
                             <h3>{{ cell.title }}</h3>
                             <p>
                                 <b>Leader: </b>

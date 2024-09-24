@@ -6,6 +6,6 @@ position: alumni
 cat: gaia
 subcat: signature
 avatar:
-joined: 2020
+joined: 2024
 ---
 
