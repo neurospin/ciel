@@ -1,7 +1,7 @@
 ---
 layout:
 name: Edouard Duchesnay
-desc: HdR
+desc: Head of Laboratory, Research Director
 position: pi
 cat: gaia
 subcat: signature

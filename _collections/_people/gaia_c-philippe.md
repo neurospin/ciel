@@ -1,7 +1,7 @@
 ---
 layout:
 name: Cathy Philippe
-desc: PhD
+desc: Research Scientist
 position: pi
 cat: gaia
 subcat: brainomics

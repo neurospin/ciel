@@ -1,7 +1,7 @@
 ---
 layout:
 name: Antoine Grigis
-desc: HdR
+desc: Research Engineer, PhD, HdR
 position: engineer
 cat: gaia
 subcat: platform

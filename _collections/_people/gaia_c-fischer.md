@@ -1,7 +1,7 @@
 ---
 layout:
 name: Clara Fischer
-desc:
+desc: Research Engineer
 position: engineer
 cat: gaia
 subcat: cati

@@ -1,7 +1,7 @@
 ---
 layout:
 name: Denis Rivière
-desc: PhD
+desc: Research Scientist
 position: pi
 cat: gaia
 subcat: architecture

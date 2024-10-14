@@ -49,18 +49,19 @@ Note: For the research collection, you will have to add a new `research_<CATEGOR
 
 Jekyll:
 
-- sudo apt install ruby-dev
-- echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
-- echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
-- echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
-- source ~/.bashrc
-- gem install jekyll bundler
-- cd $MYPROJECT
-- bundle init
-- bundle add jekyll webrick
-- bundle install
-- bundle exec jekyll serve --livereload --port 8080
-
+```
+sudo apt install ruby-dev
+echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
+echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
+echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+gem install jekyll bundler
+cd $MYPROJECT
+bundle init
+bundle add jekyll webrick
+bundle install
+bundle exec jekyll serve --livereload --port 8080
+```
 
 For Bibtex conversion:
 
