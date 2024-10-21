@@ -40,7 +40,7 @@
               <ul>
                 {% for cell in cells_sorted %}
                     {% if cell.site %}
-                        <li><a href="{{cell.site}}  target="_blank"">{{cell.title}}</a></li>
+                        <li><a href="{{cell.site}}"  target="_blank"">{{cell.title}}</a></li>
                     {% else %}
                         <li><a href="{{site.url}}{{site.baseurl}}{{cell.url}}">{{cell.title}}</a></li>
                     {% endif %}
