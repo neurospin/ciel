@@ -1,7 +1,7 @@
 ---
 layout:
 name: Aymerci Gaudin
-desc:
+desc: Research Engineer
 position: engineer
 cat: gaia
 subcat: platform

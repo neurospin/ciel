@@ -1,7 +1,7 @@
 ---
 layout:
 name: Ivy Uszynski
-desc: PhD
+desc: Research Engineer, PhD
 position: engineer
 cat: gaia
 subcat: ginkgo

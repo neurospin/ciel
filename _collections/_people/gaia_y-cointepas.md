@@ -1,7 +1,7 @@
 ---
 layout:
 name: Yann Cointepas
-desc: PhD
+desc: Research Engineer
 position: engineer
 cat: gaia
 subcat: cati

@@ -1,7 +1,7 @@
 ---
 layout:
 name: Vincent Frouin
-desc: HdR
+desc: Research Director
 position: pi
 cat: gaia
 subcat: brainomics

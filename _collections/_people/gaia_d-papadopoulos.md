@@ -1,7 +1,7 @@
 ---
 layout:
 name: Dimitri Papadopoulos
-desc: PhD
+desc: Research Engineer, PhD
 position: engineer
 cat: gaia
 subcat: platform
