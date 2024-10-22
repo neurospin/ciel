@@ -45,6 +45,8 @@
                  
                     {{ content }}
 
+                    {% if page.subcat == "team" %}
+                    
                     <section>
                         <header class="major">
                           <h2>Members</h2>
@@ -112,6 +114,8 @@
                         {% endfor %}
                         </div>
                     </section>
+                    
+                    {% endif %}
 
                 </section>
 

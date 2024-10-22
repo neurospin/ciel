@@ -8,7 +8,7 @@
 
 {% include head.html %}
 
-{% assign labs_sorted = site.labs | sort: "cat" %}
+{% assign labs_sorted = site.labs | where: "subcat", "team" | sort: "cat" %}
 {% assign unique_labs = '' | split: ',' %}
 {% for lab in labs_sorted %}
       {% unless lab.cat == previous %}

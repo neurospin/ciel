@@ -1,12 +1,12 @@
 
 # Site settings
-title: GAIA
-subtitle: Brain Imaging and Data Science Lab
-baseurl: #gaia
-url: # https://baobablab.github.io/
+title: CIEL
+subtitle: Cerebral Imaging and Engineering Lab
+baseurl: #ciel
+url: # https://neurospin.github.io/
 
 # Contacts
-email: edouard.duchesnay@cea.fr
+email: sebastien.meriaux@cea.fr
 author:
 street_address:
 city:

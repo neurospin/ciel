@@ -2,7 +2,7 @@
 layout: page_lab
 ---
 
-{% assign lab = "gaia" %}
+{% assign lab = "ciel" %}
 {% assign teams_sorted = site.labs | where: "cat", lab | where: "subcat", "team" | sort: "title"  %}
 {% assign cells_sorted = site.labs | where: "cat", lab | where: "subcat", "cell" | sort: "title"  %}
 
@@ -10,10 +10,15 @@ layout: page_lab
 <section id="banner">
 <div class="content" style="width: 100%;">
   <p>
-  The GAIA laboratory is part of the BAOBAB (CEA, CNRS, Paris-Saclay Univ.) unit of <a href="http://www.cea.fr/english"  target="_blank">CEA</a>/<a href="http://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx"  target="_blank">NeuroSpin department</a>, located on the <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay campus</a>.
+    The “Cerebral Imaging and Engineering Laboratory” (CIEL) is dedicated to the development of innovative methodologies for understanding the biophysics of brain mechanisms, such as metabolism, neuronal activity and molecules transport, both in normal and pathological conditions. These developments are strongly supported by:
+    <ul>
+      <li>the use of high and ultra-high field MRI scanners dedicated to small animals (7T, 11.7T and 17.2T) to investigate specific brain functions with unprecedented spatio-temporal resolution and sensitivity to molecules of interest;</li>
+      <li>the integration of additional technologies such as ultrasound, 2-photons microscopy, electrophysiology and histology, to better capture the complexity of the biophysical processes under investigation or to propose new tools for modulating these processes;</li>
+      <li>an integrated translational approach, starting from the optimization of all methodological and technological developments on dedicated animal models before working on their transfer into a clinical setting.</li>
+    </ul>
   </p>
   <p>
-  GAIA laboratory develops new computer vision systems dedicated to the modeling of the inter-subject variability of complex brain phenotypes, is the algorithmic forefront of the exploitation of high field MRI, designs dedicated artificial intelligence methods and software environments to exploit brain phenotypes in a variety of contexts (biomarker research, genetics, cognitive neuroscience, etc). 
+    Therefore, the global scientific strategy of CIEL consists in building a framework of imaging technologies that are increasing the comprehension of fundamental mechanisms underlying brain functioning, but also in producing new diagnostic and therapeutic tools in a pathological context such as brain tumor, stroke, neurodegenerative and psychiatric diseases. 
   </p>
   <p>
   Below is a list of all the <a href="#teams">teams</a> and <a href="#cells">cells</a>. A <a href="#gallery">gallery</a> of current research topics is also available.

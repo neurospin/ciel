@@ -3,7 +3,7 @@
     <div class="inner">
 
         <!-- Menu -->
-        {% assign lab = "gaia" %}
+        {% assign lab = "ciel" %}
         {% assign teams_sorted = site.labs | where: "cat", lab | where: "subcat", "team" | sort: "title"  %}
         {% assign cells_sorted = site.labs | where: "cat", lab | where: "subcat", "cell" | sort: "title"  %}
         {% assign today = site.time | date: '%Y' %}
