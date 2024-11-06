@@ -4,7 +4,6 @@ name: Camélia Ressam
 position: gradstudent
 cat: ciel
 subcat: neurophysics
-avatar: 
+avatar:
 joined: 2023
 ---
-

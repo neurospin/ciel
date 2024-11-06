@@ -4,7 +4,7 @@ title: MIDAS
 cat: ciel
 subcat: team
 headline: Research topic
-teasing: The blood-brain barrier (BBB) remains the bottleneck for pharmacological therapy of neurological diseases, costing billionsto our societies.The goal of our team isto provide new solutionsto deliver drugsto the brain in a safe way in order to increase their efficacy on the target.Transcranial focused ultrasound isa particularly promising technique to transiently and locally disrupt thisvascular barrier. Since 2010,we use neuroimaging to characterize the technology and to develop translational strategies. We now aim at making it a reality for the highest possible number of patients in the future years. 
+teasing: The blood-brain barrier (BBB) remains the bottleneck for pharmacological therapy of neurological diseases, costing billionsto our societies.The goal of our team isto provide new solutionsto deliver drugsto the brain in a safe way in order to increase their efficacy on the target.Transcranial focused ultrasound isa particularly promising technique to transiently and locally disrupt thisvascular barrier. Since 2010,we use neuroimaging to characterize the technology and to develop translational strategies. We now aim at making it a reality for the highest possible number of patients in the future years.
 leader: Benoit Larrat
 icon: midas-icon.png
 added: 2020

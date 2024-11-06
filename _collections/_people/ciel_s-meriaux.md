@@ -7,4 +7,3 @@ subcat: midas
 avatar: s-meriaux.png
 joined: 2006
 ---
-

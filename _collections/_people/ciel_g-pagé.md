@@ -7,4 +7,3 @@ subcat: midas
 avatar: g-page.png
 joined: 2024
 ---
-

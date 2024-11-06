@@ -4,7 +4,6 @@ name: Marion Gay
 position: engineer
 cat: ciel
 subcat: midas
-avatar: 
+avatar:
 joined: 2022
 ---
-

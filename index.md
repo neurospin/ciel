@@ -18,7 +18,7 @@ layout: page_lab
     </ul>
   </p>
   <p>
-    Therefore, the global scientific strategy of CIEL consists in building a framework of imaging technologies that are increasing the comprehension of fundamental mechanisms underlying brain functioning, but also in producing new diagnostic and therapeutic tools in a pathological context such as brain tumor, stroke, neurodegenerative and psychiatric diseases. 
+    Therefore, the global scientific strategy of CIEL consists in building a framework of imaging technologies that are increasing the comprehension of fundamental mechanisms underlying brain functioning, but also in producing new diagnostic and therapeutic tools in a pathological context such as brain tumor, stroke, neurodegenerative and psychiatric diseases.
   </p>
   <p>
   Below is a list of all the <a href="#teams">teams</a> and <a href="#cells">cells</a>. A <a href="#gallery">gallery</a> of current research topics is also available.
@@ -51,4 +51,3 @@ layout: page_lab
   "/>
 </div>
 </section>
-

@@ -59,7 +59,7 @@ The two most relevant ones (<5 years):
 - Jelescu, I.O., de Skowronski, A., Geffroy, F., Palomboe, M., Novikov, D. S., (2022)  Neurite Exchange Imaging (NEXI): A minimal model of diffusion in gray matter with inter-compartment water exchange Neuroimage 119277 2022
 https://doi.org/10.1016/j.neuroimage.2022.119277
 
-- Conti, A., Geffroy, F., Kamimura, H. A. S., Novell, A., Tournier, N., Mériaux, S.  and Larrat, B. (2023) Regulation of P-glycoprotein and Breast Cancer Resistance Protein Expression Induced by Focused Ultrasound-Mediated Blood-Brain Barrier Disruption: A Pilot Study. International Journal of Molecular Sciences. 23, 15488 2022/ Int. J. Mol. Sci. 2022, 23, 15488. 
+- Conti, A., Geffroy, F., Kamimura, H. A. S., Novell, A., Tournier, N., Mériaux, S.  and Larrat, B. (2023) Regulation of P-glycoprotein and Breast Cancer Resistance Protein Expression Induced by Focused Ultrasound-Mediated Blood-Brain Barrier Disruption: A Pilot Study. International Journal of Molecular Sciences. 23, 15488 2022/ Int. J. Mol. Sci. 2022, 23, 15488.
 https://doi.org/10.3390/ijms232415488
 
 

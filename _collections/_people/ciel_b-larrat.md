@@ -7,4 +7,3 @@ subcat: midas
 avatar: b-larrat.png
 joined: 2006
 ---
-

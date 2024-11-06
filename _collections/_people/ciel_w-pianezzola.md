@@ -4,7 +4,6 @@ name: Wilfried Pianezzola
 position: engineer
 cat: ciel
 subcat: midas
-avatar: 
+avatar:
 joined: 2006
 ---
-

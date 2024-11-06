@@ -8,4 +8,3 @@ avatar: d-boido.png
 site: https://davideboido.github.io
 joined: 2020
 ---
-

@@ -7,4 +7,3 @@ subcat: neurophysics
 avatar: d-lebihan.png
 joined: 2006
 ---
-

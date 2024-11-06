@@ -7,4 +7,3 @@ subcat: neurophysics
 avatar: l-ciobanu.png
 joined: 2006
 ---
-

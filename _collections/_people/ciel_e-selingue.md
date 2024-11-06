@@ -7,4 +7,3 @@ subcat: midas
 avatar: e-selingue.png
 joined: 2006
 ---
-

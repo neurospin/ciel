@@ -7,4 +7,3 @@ subcat: neurophysics
 avatar: r-gaudin.png
 joined: 2023
 ---
-

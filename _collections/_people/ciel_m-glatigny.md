@@ -7,4 +7,3 @@ subcat: midas
 avatar: m-glatigny.png
 joined: 2022
 ---
-
