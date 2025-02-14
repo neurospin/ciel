@@ -2,8 +2,8 @@
 # Site settings
 title: CIEL
 subtitle: Cerebral Imaging and Engineering Lab
-baseurl: #ciel
-url: # https://neurospin.github.io/
+baseurl: ciel
+url: https://www.neurospin.fr/
 
 # Contacts
 email: sebastien.meriaux@cea.fr
