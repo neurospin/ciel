@@ -10,7 +10,7 @@ layout: page_lab
 <section id="banner">
 <div class="content" style="width: 100%;">
   <p>
-  The GAIA laboratory is part of the <a href="https://baobab.neurospin.fr/" target="_blank">BAOBAB</a> (<a href="https://www.cea.fr/english" target="_blank">CEA</a>, <a href="https://www.cnrs.fr/en" target="_blank">CNRS</a>, <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>) unit in the <a href="https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx"  target="_blank">NeuroSpin</a> departement. <a href="https://www.neurospin-wiki.org/pmwiki/Main/DirectionsToNeurospin">Directions to Neurospin</a>.
+  The CIEL laboratory is part of the <a href="https://baobab.neurospin.fr/" target="_blank">BAOBAB</a> (<a href="https://www.cea.fr/english" target="_blank">CEA</a>, <a href="https://www.cnrs.fr/en" target="_blank">CNRS</a>, <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>) unit in the <a href="https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx"  target="_blank">NeuroSpin</a> departement. <a href="https://www.neurospin-wiki.org/pmwiki/Main/DirectionsToNeurospin">Directions to Neurospin</a>.
   </p>
   <p>
     The “Cerebral Imaging and Engineering Laboratory” (CIEL) is dedicated to the development of innovative methodologies for understanding the biophysics of brain mechanisms, such as metabolism, neuronal activity and molecules transport, both in normal and pathological conditions. These developments are strongly supported by:
