@@ -10,6 +10,9 @@ layout: page_lab
 <section id="banner">
 <div class="content" style="width: 100%;">
   <p>
+  The CIEL laboratory is part of the <a href="https://baobab.neurospin.fr/" target="_blank">BAOBAB</a> (<a href="https://www.cea.fr/english" target="_blank">CEA</a>, <a href="https://www.cnrs.fr/en" target="_blank">CNRS</a>, <a href="https://www.universite-paris-saclay.fr/en" target="_blank">Paris-Saclay University</a>) unit in the <a href="https://joliot.cea.fr/drf/joliot/en/Pages/research_entities/NeuroSpin.aspx"  target="_blank">NeuroSpin</a> departement. <a href="https://www.neurospin-wiki.org/pmwiki/Main/DirectionsToNeurospin">Directions to Neurospin</a>.
+  </p>
+  <p>
     The “Cerebral Imaging and Engineering Laboratory” (CIEL) is dedicated to the development of innovative methodologies for understanding the biophysics of brain mechanisms, such as metabolism, neuronal activity and molecules transport, both in normal and pathological conditions. These developments are strongly supported by:
     <ul>
       <li>the use of high and ultra-high field MRI scanners dedicated to small animals (7T, 11.7T and 17.2T) to investigate specific brain functions with unprecedented spatio-temporal resolution and sensitivity to molecules of interest;</li>
