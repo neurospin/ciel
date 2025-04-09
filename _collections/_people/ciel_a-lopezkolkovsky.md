@@ -1,6 +1,6 @@
 ---
 layout:
-name: Alfredo Lopez-Kolkovsky
+name: Alfredo L. Lopez Kolkovsky
 position: pi
 cat: ciel
 subcat: ciclops
