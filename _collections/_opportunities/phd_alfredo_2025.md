@@ -6,6 +6,6 @@ subcat: ciclops
 type: phd
 profile: MSc in Physics or Engineering
 contact: alfredo.lopezkolkovsky@cea.fr
-ext_url: 
+ext_url: https://adum.fr/as/ed/voirproposition.pl?site=adumR&matricule_prop=61379
 date: 2025-04-10
 ---
