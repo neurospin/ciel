@@ -1,6 +1,6 @@
 ---
 layout:
-name: Melissa Glatigny
+name: Mélissa Glatigny
 position: engineer
 cat: ciel
 subcat: midas

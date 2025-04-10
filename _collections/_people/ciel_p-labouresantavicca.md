@@ -1,6 +1,6 @@
 ---
 layout:
-name: Pierre Laboure-Santavicca
+name: Pierre Labouré-Santavicca
 position: gradstudent
 cat: ciel
 subcat: neurophysics
