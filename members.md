@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 {% assign people_sorted = site.people | sort: 'joined' | reverse %}
-{% assign people_array = "pi|engineer|postdoc|gradstudent|alumni" | split: "|" %}
+{% assign people_array = "pi|technician|engineer|postdoc|gradstudent|alumni" | split: "|" %}
 
 
 {% assign people_valid = '' | split: '' %}
@@ -39,6 +39,8 @@ permalink: /people/
             <h3>Visiting Scholars</h3>
         {% elsif item == 'alumni' %}
             <h3>Alumni</h3>
+        {% elsif item == 'technician' %}
+            <h3>Lab Technicians</h3>
         {% endif %}
         </div>
         <div class="content list people">

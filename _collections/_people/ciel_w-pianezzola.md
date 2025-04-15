@@ -1,7 +1,7 @@
 ---
 layout:
 name: Wilfried Pianezzola
-position: engineer
+position: technician
 cat: ciel
 subcat: midas
 avatar:

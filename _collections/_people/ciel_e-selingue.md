@@ -1,7 +1,7 @@
 ---
 layout:
 name: Erwan Selingue
-position: engineer
+position: technician
 cat: ciel
 subcat: midas
 avatar: e-selingue.png
