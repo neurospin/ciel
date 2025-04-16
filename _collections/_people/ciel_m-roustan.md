@@ -1,7 +1,7 @@
 ---
 layout:
 name: Maxime Roustan
-position: engineer
+position: technician
 cat: ciel
 subcat: midas
 avatar:
