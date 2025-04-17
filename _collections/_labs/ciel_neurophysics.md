@@ -4,7 +4,7 @@ title: NEUROPHYSICS
 cat: ciel
 subcat: team
 headline: Research topic
-teasing: The Neurophysics team develops and applies novel (f)MRI contrasts at high and ultra-high magnetic field
+teasing: Our team develops advanced magnetic resonance imaging techniques for use at high and ultra-high magnetic fields. We aim to uncover the fundamental physical principles underlying biological function, while also applying these methods to better understand the mechanisms of disease. Ultimately, our work supports the development and evaluation of new therapeutic strategies.
 leader: Luisa Ciobanu
 icon: ciel_Gluta_MRI.png
 added: 2020
