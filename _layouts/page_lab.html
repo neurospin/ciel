@@ -57,8 +57,8 @@
                             <h3>{{ team.title }}: {{team.headline}}</h3>
                             <p>
                                 <b>Leader: </b>
-                                <script>mail2("{{team.leader | replace: " ", "." | downcase}}",
-                                              "cea", 3, "", "{{team.leader}}")</script>
+                                <script>mail2('{{team.leader | replace: " ", "." | downcase}}',
+                                              'cea', 3, '', '{{team.leader}}')</script>
                             </p>
 
                             <p>{{ team.teasing }}</p>
@@ -96,8 +96,8 @@
                             <h3>{{ cell.title }}</h3>
                             <p>
                                 <b>Leader: </b>
-                                <script>mail2("{{cell.leader | replace: " ", "." | downcase}}",
-                                              "cea", 3, "", "{{cell.leader}}")</script>
+                                <script>mail2('{{cell.leader | replace: " ", "." | downcase}}',
+                                              'cea', 3, '', '{{cell.leader}}')</script>
                             </p>
 
                             <p>{{ cell.teasing }}</p>
