@@ -13,7 +13,7 @@
 {% assign team = key[1] %}
 {% assign research_sorted = site.research | where: "cat", lab | where: "subcat", team | sort: "added" | reverse  %}
 {% assign people_sorted = site.people | where: "cat", lab | where: "subcat", team | sort: 'joined' %}
-{% assign people_array = "pi|engineer|postdoc|gradstudent|alumni" | split: "|" %}
+{% assign people_array = "pi|engineer|postdoc|gradstudent|technician|alumni" | split: "|" %}
 {% assign people_valid = '' | split: '' %}
 {% for item in people_array %}
     {% assign listpeople = '' | split: '' %}
