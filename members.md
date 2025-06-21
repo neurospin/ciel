@@ -41,7 +41,7 @@ permalink: /people/
             <h3>Alumni</h3>
         {% elsif item == 'technician' %}
             <h3>Lab Technicians</h3>
-                    {% elsif item == 'master' %}
+        {% elsif item == 'master' %}
             <h3>Master Students</h3>
         {% endif %}
         </div>
