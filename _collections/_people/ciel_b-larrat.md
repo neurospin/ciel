@@ -1,7 +1,7 @@
 ---
 layout:
 name: Benoit Larrat
-position: pi
+position: alumni
 cat: ciel
 subcat: midas
 avatar: b-larrat.png
