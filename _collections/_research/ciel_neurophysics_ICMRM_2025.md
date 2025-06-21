@@ -7,4 +7,5 @@ teasing: Luisa Ciobanu will give a plenary lecture during the International Conf
 icon: ICMRM_2025.png
 site: https://icmrm.physik.uni-wuerzburg.de/program/
 added: 2025
+date: 2025-01-01
 ---

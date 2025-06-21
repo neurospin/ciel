@@ -7,4 +7,5 @@ teasing: Alfredo L. Lopez Kolkovsky investigated how physics based generative ar
 icon: alfredo2025_bis.png
 site: https://doi.org/10.1007/s11060-025-05094-x
 added: 2025
+date: 2025-06-01
 ---

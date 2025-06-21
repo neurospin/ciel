@@ -7,4 +7,5 @@ teasing: The MIDAS team improved the performance and safety of focused ultrasoun
 icon: sebastien2025.png
 site: https://hal.science/hal-05109989v1/file/article_PMB_R1_clean%20version.pdf
 added: 2025
+date: 2025-06-01
 ---

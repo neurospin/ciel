@@ -7,4 +7,5 @@ teasing: The publication "Efficient optimization of chemical exchange saturation
 icon: Best_paper.png
 site: https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.29617
 added: 2025
+date: 2025-05-01
 ---

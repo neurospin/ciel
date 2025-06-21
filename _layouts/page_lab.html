@@ -7,7 +7,7 @@
 {% assign lab = "ciel" %}
 {% assign teams_sorted = site.labs | where: "cat", lab | where: "subcat", "team" | sort: "title"  %}
 {% assign cells_sorted = site.labs | where: "cat", lab | where: "subcat", "cell" | sort: "title"  %}
-{% assign research_sorted = site.research | sort: 'added' | reverse  %}
+{% assign research_sorted = site.research | sort: 'date' | reverse  %}
 
 <html>
 

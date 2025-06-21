@@ -7,4 +7,5 @@ teasing: Luisa Ciobanu will speak at the COURSE 216 - FRONTIERS IN MEDICAL PHYSI
 icon: IT_Phyisical_Society.png
 site: https://www.sif.it/corsi/scuola_fermi/2025/216
 added: 2025
+date: 2025-01-01
 ---

@@ -7,4 +7,5 @@ teasing: Katia Chardon, Ph.D. Student in NeuroPhysics Team was warded with the '
 icon: PROPSY-EDU.png
 site: https://kchardon.github.io/
 added: 2025
+date: 2025-05-01
 ---

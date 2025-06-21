@@ -7,4 +7,5 @@ teasing: We designed and built an MR cradle with an integrated water chamber, ma
 icon: heated_cradle.png
 site: https://www.biorxiv.org/content/10.1101/2024.12.29.630663v1
 added: 2024
+date: 2024-01-01
 ---
