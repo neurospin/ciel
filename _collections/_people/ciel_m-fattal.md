@@ -4,6 +4,6 @@ name: Marguerite Fattal
 position: gradstudent
 cat: ciel
 subcat: midas
-avatar: 
+avatar:
 joined: 2024
 ---

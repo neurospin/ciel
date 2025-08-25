@@ -4,7 +4,7 @@ name: Katia Chardon
 position: gradstudent
 cat: ciel
 subcat: neurophysics
-avatar: 
+avatar:
 site: https://kchardon.github.io/
 joined: 2024
 ---
