@@ -4,6 +4,6 @@ name: Pierre Labouré-Santavicca
 position: gradstudent
 cat: ciel
 subcat: neurophysics
-avatar: 
+avatar:
 joined: 2024
 ---
