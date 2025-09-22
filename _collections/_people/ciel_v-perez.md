@@ -4,6 +4,6 @@ name: Valentine Perez
 position: gradstudent
 cat: ciel
 subcat: neurophysics
-avatar: 
+avatar:
 joined: 2024
 ---
