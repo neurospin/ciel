@@ -3,8 +3,7 @@ cat: ciel
 subcat: neurophysics
 bestof: false
 author: N. Boulant et al.
-title: Strongly modulating pulses for counteracting RF inhomogeneity at high fields
-journal: Magn Reson Med
+title: Strongly modulating pulses  - a new method for tackling RF inhomogeneity problems at high fields
 year: 2008
-type: article
+type: misc
 ---
