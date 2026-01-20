@@ -1,9 +1,9 @@
 ---
 layout:
-name: Mathis Phan
-position: alumni
+name: Louise Beucher
+position: master
 cat: ciel
 subcat: neurophysics
 avatar:
-joined: 2025
+joined: 2026
 ---
